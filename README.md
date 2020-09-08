@@ -10,3 +10,8 @@ If you are like me then you have always been interested in logic programming and
 
 - [X] Nonparametric polymorphism at the object level.
 - [X] First and higher order terms.
+
+The compiler:
+
+LPSL uses massive number of compiler optimizations ultimately leading up to almost a stochastic superoptimizer that searches for the fastest possible code
+in a short sequence. LSPL does this through mandatory modular programming and already fast compiler having been written in fortran.
