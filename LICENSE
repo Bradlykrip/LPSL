@@ -1,0 +1,17 @@
+
+
+LPSL License
+
+Copyright (c) 2020 Bradlykrip
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "LPSL"), 
+to use for commercial and hobbyist purposes. You cannot write a compiler or intepreter that compiles or interprets in LPSL and you may not
+create a library or framework that changes the fundamental features of LPSL unless it is defined as a DSL (Domain-Specific language) extension.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH 
+THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
