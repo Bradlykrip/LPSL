@@ -14,4 +14,8 @@ If you are like me then you have always been interested in logic programming and
 The compiler:
 
 LPSL uses massive number of compiler optimizations ultimately leading up to almost a stochastic superoptimizer that searches for the fastest possible code
-in a short sequence. LSPL does this through mandatory modular programming and already fast compiler having been written in fortran.
+in a short sequence. LSPL does this through mandatory modular programming and an already fast compiler having been written in fortran. By default LPSL
+uses almost the full optimization capability and because of this every millisecond of compilation speed matters; therefore; LPSL has eager evaluation but is
+statically typed. 
+
+
