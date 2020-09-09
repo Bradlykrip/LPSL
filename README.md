@@ -20,8 +20,6 @@ statically typed.
 
 <h2>Compiler Optimizations</h2>
 
-- [] Optimization of the Gyroaverage operator based on Hermite interpolation
-
 - [] HAMLET-an expression compiler/optimizer for the implementation of heuristics to minimize multiple-valued programmable logic arrays
 
 - [] Optimization and Evaluation of Disjunctive Queries
